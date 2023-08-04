@@ -1,6 +1,6 @@
-package howAboutExceptions;
+ package howAboutExceptions;
 
-/*
+
 //Note:  This code is not complete or working.
 
 class GetThatError {
@@ -45,7 +45,7 @@ class GetThatError {
             }
             private int errorCode;
 
-          private CustomCheckedException(String message, int errorCode){
+private CustomCheckedException(String message, int errorCode){
                 super(message);
                 this.errorCode = errorCode;
             }
@@ -71,8 +71,5 @@ class GetThatError {
 
 
     }
-}
-
-*/
 
 
